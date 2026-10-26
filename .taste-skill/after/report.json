@@ -1,0 +1,2267 @@
+{
+ "url": "http://localhost:3124/",
+ "at": "2026-10-26T14:49:22.783Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.94,
+    0.67,
+    0.45,
+    0.73,
+    0.87,
+    0.87,
+    0.92,
+    1
+   ],
+   "motion": {
+    "elements": 49,
+    "css": 9,
+    "transitions": 34,
+    "scripted": 6,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6665,
+     "screens": 7.4,
+     "words": 677,
+     "img": 5,
+     "video": 1,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "ibm-card-storage-nara.jpg",
+      "the-soap-bubbles.jpg",
+      "lipid-islands-on-soap-bubble.jpg",
+      "ibm-80-card-sorter.jpg",
+      "univac-i-census-dedication.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bubble sort, one swap at a time",
+     "words": 7,
+     "chars": 31,
+     "lines": 2,
+     "size": 73.4,
+     "vw": 5.1,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.41,
+     "top": 250,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Bubble sort, one swap at a time",
+     "words": 7,
+     "lines": 2,
+     "size": 73.4,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Bubble sort, one swap at a time",
+      "words": 7,
+      "chars": 31,
+      "lines": 2,
+      "size": 73.4,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 250,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 772,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "6",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 772,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "4",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 772,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Neighbours trade places",
+      "words": 3,
+      "chars": 23,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 1043,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What it costs",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 2551,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "4,950",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 73.4,
+      "vw": 5.1,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 2571,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "45",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 2819,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "499,500",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.2,
+      "top": 2909,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Why it is called bubble sort",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.31,
+      "top": 3461,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Named in 1962, used since 1956",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.3,
+      "top": 4517,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Get the code",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 280.8,
+      "vw": 19.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.06,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 5667,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 6,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "monospace",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      19,
+      26,
+      64,
+      73,
+      281
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 19,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 280.8,
+      "vw": 19.5,
+      "font": "Bricolage Grotesque",
+      "text": "Get the code"
+     },
+     "monoShare": 0.1,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e1dfd9",
+       "top": 72,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 72,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#45531a",
+       "top": -61,
+       "hsl": {
+        "h": 75,
+        "s": 0.52,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#2b350a",
+       "top": 4461,
+       "hsl": {
+        "h": 74,
+        "s": 0.68,
+        "l": 0.12
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.61
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.38
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#d6d8c6",
+      "hsl": {
+       "h": 67,
+       "s": 0.19,
+       "l": 0.81
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Source",
+      "Sort these",
+      "Pause",
+      "Step",
+      "Shuffle"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 5,
+     "boxRadius": 50,
+     "squareMedia": 1,
+     "roundedMedia": 5,
+     "mediaRadius": 50,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.31
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6665,
+    "margins": {
+     "left": 29,
+     "right": 29
+    },
+    "sections": [
+     {
+      "sel": "section.hero.wrap",
+      "tag": "section",
+      "top": 72,
+      "height": 813,
+      "words": 54,
+      "media": 2,
+      "middle": 93,
+      "heading": {
+       "text": "Bubble sort, one swap at a time",
+       "size": 73,
+       "tag": "h1"
+      },
+      "left": 78,
+      "right": 61,
+      "textLeft": 78,
+      "textRight": 452,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.how.wrap",
+      "tag": "section",
+      "top": 1043,
+      "height": 1341,
+      "words": 238,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 29,
+      "right": 29,
+      "textLeft": 29,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cost.cost.wrap",
+      "tag": "section",
+      "top": 2543,
+      "height": 630,
+      "words": 69,
+      "media": 1,
+      "middle": 278,
+      "heading": {
+       "text": "4,950",
+       "size": 73,
+       "tag": "p"
+      },
+      "left": 57,
+      "right": 29,
+      "textLeft": 57,
+      "textRight": 90,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band.section-band",
+      "tag": "section",
+      "top": 3331,
+      "height": 972,
+      "words": 66,
+      "media": 3,
+      "middle": 68,
+      "heading": {
+       "text": "Why it is called bubble sort",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 29,
+      "right": 23,
+      "textLeft": 29,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#history.history.section",
+      "tag": "section",
+      "top": 4461,
+      "height": 828,
+      "words": 89,
+      "media": 0,
+      "middle": 216,
+      "heading": {
+       "text": "Named in 1962, used since 1956",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 85,
+      "right": 163,
+      "textLeft": 85,
+      "textRight": 163,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.cta",
+      "tag": "a",
+      "top": 5448,
+      "height": 540,
+      "words": 14,
+      "media": 0,
+      "middle": 896,
+      "heading": {
+       "text": "The code is on GitHub. Take it, slow it down, sort",
+       "size": 26,
+       "tag": "span"
+      },
+      "left": 29,
+      "right": 29,
+      "textLeft": 29,
+      "textRight": 973,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 5988,
+      "height": 677,
+      "words": 80,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "This page",
+       "size": 19,
+       "tag": "h2"
+      },
+      "left": 29,
+      "right": 29,
+      "textLeft": 29,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3176,
+      "height": 272
+     },
+     {
+      "top": 4172,
+      "height": 336
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Bubble sort, one swap at a time",
+      "size": 73,
+      "top": 250,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 29,
+      "n": 5
+     },
+     {
+      "x": 900,
+      "n": 4
+     },
+     {
+      "x": 78,
+      "n": 3
+     },
+     {
+      "x": 744,
+      "n": 2
+     },
+     {
+      "x": 57,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 15,
+    "bodySize": 19,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 840,
+     "w": 1440,
+     "h": 60
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.87,
+    0.77,
+    0.66,
+    0.6,
+    0.86,
+    0.84,
+    0.91,
+    0.99
+   ],
+   "motion": {
+    "elements": 47,
+    "css": 9,
+    "transitions": 32,
+    "scripted": 6,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7587,
+     "screens": 7.4,
+     "words": 677,
+     "img": 5,
+     "video": 1,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "ibm-card-storage-nara.jpg",
+      "the-soap-bubbles.jpg",
+      "lipid-islands-on-soap-bubble.jpg",
+      "ibm-80-card-sorter.jpg",
+      "univac-i-census-dedication.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bubble sort, one swap at a time",
+     "words": 7,
+     "chars": 31,
+     "lines": 2,
+     "size": 45.9,
+     "vw": 6,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.49,
+     "top": 184,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Bubble sort, one swap at a time",
+     "words": 7,
+     "lines": 2,
+     "size": 45.9,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Bubble sort, one swap at a time",
+      "words": 7,
+      "chars": 31,
+      "lines": 2,
+      "size": 45.9,
+      "vw": 6,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.49,
+      "top": 184,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "1",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 639,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "6",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 639,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "4",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.03,
+      "top": 639,
+      "tag": "span",
+      "kind": "statement"
+     },
+     {
+      "text": "Neighbours trade places",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 1662,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What it costs",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 3209,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "4,950",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 45.9,
+      "vw": 6,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 3421,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "45",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.4,
+      "top": 3859,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "499,500",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.4,
+      "top": 3899,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Why it is called bubble sort",
+      "words": 6,
+      "chars": 28,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 4346,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Named in 1962, used since 1956",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.41,
+      "top": 5411,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Get the code",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 149.8,
+      "vw": 19.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.06,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.96,
+      "top": 6739,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 6,
+     "centered": 0,
+     "medianWords": 1,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "monospace",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      18,
+      23,
+      45,
+      46,
+      150
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17.9,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 57,
+     "max": {
+      "size": 149.8,
+      "vw": 19.5,
+      "font": "Bricolage Grotesque",
+      "text": "Get the code"
+     },
+     "monoShare": 0.1,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e1dfd9",
+       "top": 72,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 725,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#45531a",
+       "top": 723,
+       "hsl": {
+        "h": 75,
+        "s": 0.52,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#2b350a",
+       "top": 5379,
+       "hsl": {
+        "h": 74,
+        "s": 0.68,
+        "l": 0.12
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.61
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.38
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#d6d8c6",
+      "hsl": {
+       "h": 67,
+       "s": 0.19,
+       "l": 0.81
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Source",
+      "Sort these",
+      "Pause",
+      "Step",
+      "Shuffle"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 5,
+     "boxRadius": 50,
+     "squareMedia": 1,
+     "roundedMedia": 5,
+     "mediaRadius": 50,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "svg",
+      "ratio": 0.21
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 72,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7587,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "section.hero.wrap",
+      "tag": "section",
+      "top": 72,
+      "height": 1494,
+      "words": 54,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "Bubble sort, one swap at a time",
+       "size": 46,
+       "tag": "h1"
+      },
+      "left": 44,
+      "right": 44,
+      "textLeft": 44,
+      "textRight": 68,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how.how.wrap",
+      "tag": "section",
+      "top": 1662,
+      "height": 1450,
+      "words": 238,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 28,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cost.cost.wrap",
+      "tag": "section",
+      "top": 3209,
+      "height": 969,
+      "words": 66,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "4,950",
+       "size": 46,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 116,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band.section-band",
+      "tag": "section",
+      "top": 4274,
+      "height": 1009,
+      "words": 66,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Why it is called bubble sort",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 15,
+      "right": 11,
+      "textLeft": 16,
+      "textRight": 18,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#history.history.section",
+      "tag": "section",
+      "top": 5379,
+      "height": 875,
+      "words": 89,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Named in 1962, used since 1956",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 48,
+      "right": 75,
+      "textLeft": 48,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.cta",
+      "tag": "a",
+      "top": 6350,
+      "height": 614,
+      "words": 14,
+      "media": 0,
+      "middle": 299,
+      "heading": null,
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 363,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 6965,
+      "height": 622,
+      "words": 80,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "This page",
+       "size": 18,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Bubble sort, one swap at a time",
+      "size": 46,
+      "top": 184,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 16,
+      "n": 7
+     },
+     {
+      "x": 44,
+      "n": 6
+     },
+     {
+      "x": 400,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 15,
+    "bodySize": 18,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 10,
+   "filled": [
+    0.85,
+    0.86,
+    0.7,
+    0.71,
+    0.48,
+    0.68,
+    1,
+    0.81,
+    0.82,
+    1
+   ],
+   "motion": {
+    "elements": 53,
+    "css": 9,
+    "transitions": 36,
+    "scripted": 8,
+    "videos": 1,
+    "playingVideos": 1
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 8220,
+     "screens": 9.7,
+     "words": 665,
+     "img": 5,
+     "video": 1,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 5,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 6,
+     "videoCount": 1,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "ibm-card-storage-nara.jpg",
+      "the-soap-bubbles.jpg",
+      "lipid-islands-on-soap-bubble.jpg",
+      "ibm-80-card-sorter.jpg",
+      "univac-i-census-dedication.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Bubble sort, one swap at a time",
+     "words": 7,
+     "chars": 31,
+     "lines": 2,
+     "size": 36,
+     "vw": 9.2,
+     "font": "Bricolage Grotesque",
+     "weight": 600,
+     "tracking": -0.04,
+     "leading": 0.95,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.77,
+     "top": 154,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Bubble sort, one swap at a time",
+     "words": 7,
+     "lines": 2,
+     "size": 36,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "Bubble sort, one swap at a time",
+      "words": 7,
+      "chars": 31,
+      "lines": 2,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 154,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Neighbours trade places",
+      "words": 3,
+      "chars": 23,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 1547,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What it costs",
+      "words": 3,
+      "chars": 13,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 4088,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "4,950",
+      "words": 1,
+      "chars": 5,
+      "lines": 1,
+      "size": 36,
+      "vw": 9.2,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.82,
+      "top": 4292,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "45",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 42.9,
+      "vw": 11,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 4620,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "499,500",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 42.9,
+      "vw": 11,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 4652,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "Why it is called bubble sort",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 5018,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Named in 1962, used since 1956",
+      "words": 6,
+      "chars": 30,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.61,
+      "top": 6198,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Get the code",
+      "words": 3,
+      "chars": 12,
+      "lines": 1,
+      "size": 70.2,
+      "vw": 18,
+      "font": "Bricolage Grotesque",
+      "weight": 600,
+      "tracking": -0.06,
+      "leading": 0.8,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.92,
+      "top": 7444,
+      "tag": "span",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 3,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Bricolage Grotesque",
+       "share": 0.9,
+       "mono": false
+      },
+      {
+       "family": "monospace",
+       "share": 0.1,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      17,
+      20,
+      33,
+      36,
+      43,
+      70
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "Bricolage Grotesque",
+      "size": 17,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 8.7
+     },
+     "measureChars": 42,
+     "max": {
+      "size": 70.2,
+      "vw": 18,
+      "font": "Bricolage Grotesque",
+      "text": "Get the code"
+     },
+     "monoShare": 0.1,
+     "monoProseShare": 0,
+     "monoFamilies": [
+      "monospace"
+     ],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0.01,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ecebe7",
+     "bodyBgHsl": {
+      "h": 48,
+      "s": 0.12,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#e1dfd9",
+       "top": 64,
+       "hsl": {
+        "h": 45,
+        "s": 0.12,
+        "l": 0.87
+       }
+      },
+      {
+       "color": "#38450f",
+       "top": 810,
+       "hsl": {
+        "h": 74,
+        "s": 0.64,
+        "l": 0.16
+       }
+      },
+      {
+       "color": "#45531a",
+       "top": 916,
+       "hsl": {
+        "h": 75,
+        "s": 0.52,
+        "l": 0.21
+       }
+      },
+      {
+       "color": "#bfc5a3",
+       "top": 5218,
+       "hsl": {
+        "h": 71,
+        "s": 0.23,
+        "l": 0.71
+       }
+      },
+      {
+       "color": "#2b350a",
+       "top": 6166,
+       "hsl": {
+        "h": 74,
+        "s": 0.68,
+        "l": 0.12
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#38450f",
+       "share": 0.6
+      },
+      {
+       "color": "#ecebe7",
+       "share": 0.39
+      },
+      {
+       "color": "#5d683a",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#d6d8c6",
+      "hsl": {
+       "h": 67,
+       "s": 0.19,
+       "l": 0.81
+      },
+      "fg": "#38450f"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 5,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Source",
+      "Sort these",
+      "Pause",
+      "Step",
+      "Shuffle"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 5,
+     "boxRadius": 50,
+     "squareMedia": 0,
+     "roundedMedia": 3,
+     "mediaRadius": 50,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "bricolage grotesque"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 8220,
+    "margins": {
+     "left": 16,
+     "right": 16
+    },
+    "sections": [
+     {
+      "sel": "div.hero-card",
+      "tag": "div",
+      "top": 64,
+      "height": 734,
+      "words": 48,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Bubble sort, one swap at a time",
+       "size": 36,
+       "tag": "h1"
+      },
+      "left": 44,
+      "right": 44,
+      "textLeft": 44,
+      "textRight": 54,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.stage",
+      "tag": "div",
+      "top": 810,
+      "height": 641,
+      "words": 6,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 36,
+      "right": 36,
+      "textLeft": 36,
+      "textRight": 146,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.how-head",
+      "tag": "div",
+      "top": 1547,
+      "height": 652,
+      "words": 98,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 16,
+      "right": 17,
+      "textLeft": 16,
+      "textRight": 17,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.diagram",
+      "tag": "div",
+      "top": 2255,
+      "height": 871,
+      "words": 51,
+      "media": 1,
+      "middle": 16,
+      "heading": {
+       "text": "Compare",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 20,
+      "textLeft": 226,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.trace",
+      "tag": "div",
+      "top": 3182,
+      "height": 810,
+      "words": 82,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Sorting 5 1 4 2 8 by hand",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 16,
+      "right": 38,
+      "textLeft": 16,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#cost.cost.wrap",
+      "tag": "section",
+      "top": 4088,
+      "height": 762,
+      "words": 66,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "4,950",
+       "size": 36,
+       "tag": "p"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.band.section-band",
+      "tag": "section",
+      "top": 4946,
+      "height": 1124,
+      "words": 66,
+      "media": 3,
+      "middle": 0,
+      "heading": {
+       "text": "Why it is called bubble sort",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 12,
+      "right": 14,
+      "textLeft": 16,
+      "textRight": 19,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#history.history.section",
+      "tag": "section",
+      "top": 6166,
+      "height": 941,
+      "words": 89,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Named in 1962, used since 1956",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 42,
+      "right": 53,
+      "textLeft": 42,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "a.cta",
+      "tag": "a",
+      "top": 7203,
+      "height": 388,
+      "words": 17,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Get the code",
+       "size": 70,
+       "tag": "span"
+      },
+      "left": 16,
+      "right": 23,
+      "textLeft": 16,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer",
+      "tag": "footer",
+      "top": 7591,
+      "height": 628,
+      "words": 80,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "This page",
+       "size": 17,
+       "tag": "h2"
+      },
+      "left": 16,
+      "right": 16,
+      "textLeft": 16,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Bubble sort, one swap at a time",
+      "size": 36,
+      "top": 154,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 36,
+      "n": 8
+     },
+     {
+      "x": 16,
+      "n": 7
+     }
+    ],
+    "leftBlocks": 15,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "empty-middle",
+   "width": 1440,
+   "message": "1 section(s) have content at both edges and 896px of nothing between: \"The code is on GitHub. Take it, slow it down, sort\"",
+   "fix": "Bring the two parts together on the grid, or put the picture or figure of the section in the middle. An empty middle third reads as a hole, the same as an empty half."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\desktop-page-01.jpg",
+    "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\tablet-page-01.jpg",
+    "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\mobile-page-01.jpg",
+    "C:\\Users\\devma\\OneDrive\\Desktop\\graphic-bubble-sort\\.taste-skill\\after\\mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

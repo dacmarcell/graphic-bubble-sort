@@ -3,14 +3,14 @@
   <br>
   <br>
   <div>
-    <a href="https://github.com/marcelldac/graphic-bubble-sort/issues">
-      <img src="https://img.shields.io/github/issues/marcelldac/graphic-bubble-sort?color=fab387&labelColor=303446&style=for-the-badge">
+    <a href="https://github.com/dacmarcell/graphic-bubble-sort/issues">
+      <img src="https://img.shields.io/github/issues/dacmarcell/graphic-bubble-sort?color=fab387&labelColor=303446&style=for-the-badge">
     </a>
-    <a href="https://github.com/marcelldac/graphic-bubble-sort/stargazers">
-      <img src="https://img.shields.io/github/stars/marcelldac/graphic-bubble-sort?color=ca9ee6&labelColor=303446&style=for-the-badge">
+    <a href="https://github.com/dacmarcell/graphic-bubble-sort/stargazers">
+      <img src="https://img.shields.io/github/stars/dacmarcell/graphic-bubble-sort?color=ca9ee6&labelColor=303446&style=for-the-badge">
     </a>
-    <a href="https://github.com/marcelldac/graphic-bubble-sort">
-      <img src="https://img.shields.io/github/repo-size/marcelldac/graphic-bubble-sort?color=ea999c&labelColor=303446&style=for-the-badge">
+    <a href="https://github.com/dacmarcell/graphic-bubble-sort">
+      <img src="https://img.shields.io/github/repo-size/dacmarcell/graphic-bubble-sort?color=ea999c&labelColor=303446&style=for-the-badge">
     </a>
   </div>
 </h1>

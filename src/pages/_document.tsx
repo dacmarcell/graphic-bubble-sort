@@ -3,20 +3,25 @@ import { ColorSchemeScript } from "@mantine/core";
 
 export default function Document() {
   return (
-    <Html lang="pt-br">
+    <Html lang="en">
       <Head>
-        <ColorSchemeScript defaultColorScheme="auto" />
-        <title>Bubble Sort</title>
+        <ColorSchemeScript defaultColorScheme="light" />
         <meta
           name="description"
-          content="This is a page about Bubble Sort algorithm."
+          content="Type a list of numbers and watch bubble sort compare neighbours, swap them and float the largest to the top, one pass at a time."
         />
-        <meta property="og:title" content="Bubble Sort" />
+        <meta property="og:title" content="Bubble sort, one swap at a time" />
         <meta
           property="og:description"
-          content="Learn about the Bubble Sort algorithm."
+          content="An interactive bubble sort: how it works, what it costs, where the name comes from, and the code."
         />
         <link rel="icon" href="/favicon.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,500;12..96,600&display=swap"
+          rel="stylesheet"
+        />
       </Head>
       <body>
         <Main />
