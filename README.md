@@ -19,7 +19,7 @@
 
 # 🫧 Graphic Bubble Sort 🫧
 
-A fresh iteration of my bubble sort project, now revamped with Next.js v14 + Typescript. Delve into visual sorting through this updated implementation, which amalgamates the practicality of Next.js with the clarity of Typescript.
+A fresh iteration of my bubble sort project, now revamped with Next.js v16 + Typescript. Delve into visual sorting through this updated implementation, which amalgamates the practicality of Next.js with the clarity of Typescript.
 
 </div>
 
